@@ -1,49 +1,46 @@
-# ¡Bienvenido a mi Perfil! 🚀
+# Welcome to My Profile! 🚀
 
-¡Hola,  Soy Agustin Lozada, un ingeniero en informática apasionado por crear soluciones innovadoras y robustas utilizando tecnologías de vanguardia. Con experiencia en el desarrollo full stack, me especializo en construir aplicaciones web escalables y de alto rendimiento. ¡Vamos a explorar juntos!
+Hello, I'm Agustin Lozada, a computer engineer passionate about creating innovative and robust solutions using cutting-edge technologies. With experience in full-stack development, I specialize in building scalable and high-performance web applications. Let's explore together!
 
-## Sobre mí
+## About Me
 
-- 👨‍💻 Ingeniero en Informática con pasión por la resolución de problemas y la creatividad.
-- 🌟 Experiencia en el desarrollo full stack utilizando tecnologías como JavaScript, React, Redux, Express, Node.js y Sequelize.
-- 🚀 Apasionado por aprender y mantenerme actualizado sobre las últimas tendencias y herramientas en el mundo del desarrollo de software.
-- 💬 Excelentes habilidades de comunicación y trabajo en equipo, capaz de colaborar eficazmente con colegas en entornos de desarrollo ágiles
+- 👨‍💻 Computer Engineer with a passion for problem-solving and creativity.
+- 🌟 Experience in full-stack development using technologies such as JavaScript, React, Redux, Express, Node.js, and Sequelize.
+- 🚀 Enthusiastic about learning and staying updated on the latest trends and tools in the software development world.
+- 💬 Excellent communication and teamwork skills, capable of effectively collaborating with colleagues in agile development environments.
 
-## Habilidades
+## Technical Skills
 
-- 💻 **Frontend:** Desarrollo de interfaces de usuario dinámicas y atractivas. Tengo experiencia usando JavaScript, React y Redux.
+- 💻 **Frontend:** Development of dynamic and attractive user interfaces. I have experience using JavaScript, React, and Redux.
 <div align="center">
-<a href="www.google.com" target="_blank"><img src="https://github.com/Zerseph/Zerseph/assets/125343548/5871f27b-5949-411e-ab61-7b1bdd45cb9d" alt="Logo de JavaScript" width="30" height="30"></a>
-<img src="https://github.com/Zerseph/Zerseph/assets/125343548/bfed5a8c-5353-4aac-b0aa-4e1037f4bc43" alt="Logo de react" width="30" height="30">
-<img src="https://github.com/Zerseph/Zerseph/assets/125343548/5bd9bc89-3d8a-45d8-b694-402dae42aa19" alt="Logo de redux" width="30" height="30">
+  <a href="www.google.com" target="_blank"><img src="https://github.com/Zerseph/Zerseph/assets/125343548/5871f27b-5949-411e-ab61-7b1bdd45cb9d" alt="JavaScript Logo" width="30" height="30"></a>
+  <img src="https://github.com/Zerseph/Zerseph/assets/125343548/bfed5a8c-5353-4aac-b0aa-4e1037f4bc43" alt="React Logo" width="30" height="30">
+  <img src="https://github.com/Zerseph/Zerseph/assets/125343548/5bd9bc89-3d8a-45d8-b694-402dae42aa19" alt="Redux Logo" width="30" height="30">
 </div>
 
-
-- 🛠️ **Backend:** Creación de API robustas y escalables. Experiencia con Express y Node.js.
+- 🛠️ **Backend:** Creation of robust and scalable APIs. Experience with Express and Node.js.
 <div align="center">
-<a href="www.google.com" target="_blank"><img src="https://github.com/Zerseph/Zerseph/assets/125343548/c395eae7-ffaf-45e0-b29e-4760da11efde" alt="Logo de Node Js" width="60" height="30"></a>
-<img src="https://github.com/Zerseph/Zerseph/assets/125343548/92116d2d-e292-47c8-94a9-d87b05886b75" alt="Logo de express" width="70" height="30">
+  <a href="www.google.com" target="_blank"><img src="https://github.com/Zerseph/Zerseph/assets/125343548/c395eae7-ffaf-45e0-b29e-4760da11efde" alt="Node.js Logo" width="60" height="30"></a>
+  <img src="https://github.com/Zerseph/Zerseph/assets/125343548/92116d2d-e292-47c8-94a9-d87b05886b75" alt="Express Logo" width="70" height="30">
 </div>
 
-- 🛢️ **Base de Datos:** Experiencia en el modelado y manipulación de datos utilizando Sequelize y bases de datos relacionales.
+- 🛢️ **Database:** Experience in data modeling and manipulation using Sequelize and relational databases.
 <div align="center">
-<a href="www.google.com" target="_blank"><img src="https://github.com/Zerseph/Zerseph/assets/125343548/b8a35487-f132-4fd1-999b-d6cdc06c8886" alt="Logo de Node Js" width="50" height="30"></a>
-<img src="https://github.com/Zerseph/Zerseph/assets/125343548/95c23ab8-58fc-48e7-b609-f387a821bcff" alt="Logo de express" width="50" height="30">
+  <a href="www.google.com" target="_blank"><img src="https://github.com/Zerseph/Zerseph/assets/125343548/b8a35487-f132-4fd1-999b-d6cdc06c8886" alt="Node.js Logo" width="60" height="30"></a>
+  <img src="https://github.com/Zerseph/Zerseph/assets/125343548/95c23ab8-58fc-48e7-b609-f387a821bcff" alt="Express Logo" width="70" height="30">
 </div>
 
-## Proyectos Destacados
+## Featured Projects
 
-- 🌟 **[StarWork](https://www.youtube.com/watch?v=E5O8a0zMNnI&ab_channel=EmmanuelVillalba):** realice una plataforma para la empresa Starwork. La misma tiene como objetivo la gestión de cursos y clases diseñada para entornos laborales, con características como creación y gestión de cursos, programación de envios automaticos de clases, seguimiento del progreso y horarios personalizados de cada estudiante. Cuenta con 3 tipos de roles con diferentes tipos de acceso y responsabilidad. Desarrollado con React, Redux, Node.js, Express.js, Sequelize y PostgreSQL.
-- 🌎 **[SPA-Countries](https://github.com/Zerseph/SPA-Countries):** Aplicación de una sola página (SPA) que muestra información sobre todos los países del mundo. Permite filtrar, ordenar y buscar países, así como crear y consultar actividades turísticas para cada país. Desarrollado con React, Redux, Node.js, Express.js, Sequelize y PostgreSQL.
-- 🚀 **[Rick and Morty SPA](https://github.com/Zerseph/PI-Zerseph):** Aplicación de una sola página (SPA) que permite buscar, filtrar, ordenar y agregar a favoritos todos los personajes de la serie "Rick and Morty". Desarrollado con React, Redux, Node.js, Express.js, Sequelize y PostgreSQL.
+- 🌟 **[StarWork](https://www.youtube.com/watch?v=E5O8a0zMNnI&ab_channel=EmmanuelVillalba):** I developed a platform for the company Starwork. It aims to manage courses and classes designed for work environments, with features such as course creation and management, automatic scheduling of classes, progress tracking, and customized schedules for each student. It includes 3 types of roles with different types of access and responsibilities. Developed with React, Redux, Node.js, Express.js, Sequelize, and PostgreSQL.
+- 🌎 **[SPA-Countries](https://github.com/Zerseph/SPA-Countries):** Single-page application (SPA) that displays information about all countries in the world. It allows filtering, sorting, and searching for countries, as well as creating and consulting tourist activities for each country. Developed with React, Redux, Node.js, Express.js, Sequelize, and PostgreSQL.
+- 🚀 **[Rick and Morty SPA](https://github.com/Zerseph/PI-Zerseph):** Single-page application (SPA) that allows searching, filtering, sorting, and adding to favorites all characters from the "Rick and Morty" series. Developed with React, Redux, Node.js, Express.js, Sequelize, and PostgreSQL.
 
+## How to Contact Me
 
+I'm excited to collaborate on interesting and challenging projects! If you're interested in working together or just want to chat about technology, feel free to contact me!
 
-## Cómo Contactarme
-
-¡Estoy emocionado de colaborar en proyectos interesantes y desafiantes! Si estás interesado en trabajar juntos o simplemente quieres charlar sobre tecnología, ¡no dudes en contactarme!
-
-- 📧 **Correo Electrónico:** [zerseph@gmail.com](mailto:zerseph@gmail.com)
+- 📧 **Email:** [zerseph@gmail.com](mailto:zerseph@gmail.com)
 - 🔗 **LinkedIn:** [@agustinlozada](https://www.linkedin.com/in/agustinlozada)
 
-¡Espero con ansias conectarme contigo y explorar nuevas oportunidades en el fascinante mundo del desarrollo de software! 🌟
+Looking forward to connecting with you and exploring new opportunities in the fascinating world of software development! 🌟
